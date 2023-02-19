@@ -5,7 +5,7 @@ import { Socket } from "socket.io-client";
  * a validator to filter the result, as soon as a result matches the promise is resolved with the object received and ready
  * in use. In case more than timeoutInMillis ms have elapsed, reject the promise.
  */
-export default function listeningSocketAsPromise<T>(
+export default function listeningSocketAsPromiseUtil<T>(
 	socket: Socket,
 	eventName: string,
 	validator?: (value: T) => boolean,
