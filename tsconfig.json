@@ -4,9 +4,9 @@
 	  "esModuleInterop": true,
 	  "target": "es6",
 	  "moduleResolution": "node",
-	  "sourceMap": true,
 	  "outDir": "dist",
 	  "declaration": true,
+	  "allowJs": true,
 	},
 	"exclude": [
 		"node_modules",

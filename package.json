@@ -2,7 +2,8 @@
   "name": "@goldaxe/listening-socket-as-promise",
   "version": "1.0.3",
   "description": "npm login",
-  "main": "src/index.d.ts",
+  "main": "dist/listeningSocketAsPromise.d.js",
+  "types": "dist/listeningSocketAsPromise.d.ts",
   "scripts": {
     "build": "tsc"
   },
