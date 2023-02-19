@@ -1,13 +1,17 @@
 {
   "name": "@goldaxe/listening-socket-as-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm login",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
   "keywords": [
-    "scoket", "socket.io", "client", "server", "goldstudio"
+    "scoket",
+    "socket.io",
+    "client",
+    "server",
+    "goldstudio"
   ],
   "author": "goldstudio",
   "license": "ISC",
