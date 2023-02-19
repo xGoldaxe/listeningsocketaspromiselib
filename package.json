@@ -1,7 +1,7 @@
 {
-  "name": "@goldstudio/listening-socket-as-promise",
+  "name": "@goldaxe/listening-socket-as-promise",
   "version": "1.0.0",
-  "description": "Allows you to connect to a relatively generic event and make a promise out of it. It is possible to specifica validator to filter the result, as soon as a result matches the promise is resolved with the object received and ready in use. In case more than timeoutInMillis ms have elapsed, reject the promise.",
+  "description": "npm login",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
