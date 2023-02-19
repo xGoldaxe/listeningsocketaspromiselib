@@ -1,6 +1,6 @@
 {
   "name": "@goldaxe/listening-socket-as-promise",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm login",
   "main": "src/index.d.ts",
   "scripts": {
